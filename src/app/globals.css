@@ -24,3 +24,9 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+.image {
+  mask-image: linear-gradient(to bottom, black 80%,
+  transparent)
+}
